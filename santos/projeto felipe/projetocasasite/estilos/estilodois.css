@@ -1,0 +1,17 @@
+@charset "UFT-8";
+
+a{
+    
+    display: block;
+    background-color: darkred;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font font-weight: bold;
+    
+}
+
+

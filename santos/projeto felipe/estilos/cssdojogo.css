@@ -1,0 +1,23 @@
+
+body{
+    background-color: #5a474c;
+}
+
+#alternativas {
+    color: white;
+    background-color: #4c3a3f;
+    border-radius: 2%;
+    margin: 5%;
+    padding: 1%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#questoes {
+    text-align: center;
+    color: white;
+    margin: 5%;
+    background-color: #675458;
+    padding: 2px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
